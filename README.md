@@ -23,4 +23,6 @@ D. E. Knuth "The art of computer programming. Vol. 2, Seminumerical algorithms",
 
 ### Additional bibliography:
 W. W. Adams, Ph. Loustaunau, "An introduction to Grobner bases", Graduate Studies in Mathematics vol. 3, American Mathematical Society, 1994
-A. V. Aho, J. E. Hopcroft, J. D. Ullman "Projektowanie i analiza algorytmów", Kanon Informatyki, Helion 2003 J. von
+A. V. Aho, J. E. Hopcroft, J. D. Ullman "Projektowanie i analiza algorytmów", Kanon Informatyki, Helion 2003 
+J. von zur Gathen, J. Gerhard, "Modern Computer Algebra", Cambridge University Press, Cambridge, 2013
+
