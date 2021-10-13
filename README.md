@@ -18,11 +18,11 @@ The aim of the course is to develop computational algebraic methods to find exac
 ## Bibliography
 
 ### Basic bibliography:
-P. Koprowski "LCM: Lectures on Computational Mathematics", http://www.pkoprowski.eu/lcm
-D. E. Knuth "The art of computer programming. Vol. 2, Seminumerical algorithms", Addison-Wesley, 1998
+[1] P. Koprowski "LCM: Lectures on Computational Mathematics", http://www.pkoprowski.eu/lcm </br>
+[2] D. E. Knuth "The art of computer programming. Vol. 2, Seminumerical algorithms", Addison-Wesley, 1998 </br>
 
 ### Additional bibliography:
-W. W. Adams, Ph. Loustaunau, "An introduction to Grobner bases", Graduate Studies in Mathematics vol. 3, American Mathematical Society, 1994
-A. V. Aho, J. E. Hopcroft, J. D. Ullman "Projektowanie i analiza algorytmów", Kanon Informatyki, Helion 2003 
-J. von zur Gathen, J. Gerhard, "Modern Computer Algebra", Cambridge University Press, Cambridge, 2013
+[1] W. W. Adams, Ph. Loustaunau, "An introduction to Grobner bases", Graduate Studies in Mathematics vol. 3, American Mathematical Society, 1994 </br>
+[2] A. V. Aho, J. E. Hopcroft, J. D. Ullman "Projektowanie i analiza algorytmów", Kanon Informatyki, Helion 2003 </br>
+[3] J. von zur Gathen, J. Gerhard, "Modern Computer Algebra", Cambridge University Press, Cambridge, 2013 </br>
 
